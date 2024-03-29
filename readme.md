@@ -24,7 +24,7 @@
 
 ## 3. 利用手順<!-- (GitHub Pagesへのリンクを記載。文章はサンプルをベースに「システム」の部分のみ適切に書き換え)-->
 
-本システムの構築手順及び利用手順については[利用チュートリアル](https://Project-PLATEAU.github.io/Urban-structure-simulation/)を参照してください。<br>なお、本システムの使用にあたっては、宇都宮市のサンプルデータをご活用いただけます。
+本システムの構築手順及び利用手順については[利用チュートリアル](https://ibs3dcitymodelsimulation.github.io/Urban-structure-simulation/)を参照してください。<br>なお、本システムの使用にあたっては、宇都宮市のサンプルデータをご活用いただけます。
 
 ## 4. システム概要
 
